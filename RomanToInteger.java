@@ -30,7 +30,7 @@ public class RomanToInteger {
             default -> 0;
         };
     }
-
+// Daily update for GitHub streak
     public static void main(String[] args) {
         String roman = "MCMXCIV";
         System.out.println("The integer value of " + roman + " is " + romanToInt(roman));
