@@ -1,39 +1,38 @@
-public class RomanToInteger {
+import java.util.HashMap;
+
+class Solution {
     public static int romanToInt(String s) {
-        int result = 0;
-        int prev = 0;
+        HashMap<Character, Integer> romanmap = new HashMap<>();
 
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int curr = value(s.charAt(i));
+        romanmap.put('I',1);
+        romanmap.put('V',5);
+         romanmap.put('X',10);
+          romanmap.put('L',50);
+           romanmap.put('C',100);
+            romanmap.put('D',500);
+            romanmap.put('M',1000);
 
-            if (curr < prev) {
-                result -= curr;
-            } else {
-                result += curr;
+            int total=0;
+            int previousval=0;
+
+            for(int i = s.length() - 1; i >= 0; i--){
+            int currentVal = romanmap.get(s.charAt(i));
+
+                if (currentVal<previousval)
+                {
+                    total-=currentVal;
+                }
+                else{
+                total+=currentVal; 
+                }
+
+                previousval=currentVal;
+                 }
+                return total;
             }
 
-            prev = curr;
-        }
-
-        return result;
+ public static void main(String[] args) {
+        String roman = "LVIII";
+        System.out.println("Integer value for " + roman + " is " + romanToInt(roman));
     }
-
-    private static int value(char c) {
-        return switch (c) {
-            case 'I' -> 1;
-            case 'V' -> 5;
-            case 'X' -> 10;
-            case 'L' -> 50;
-            case 'C' -> 100;
-            case 'D' -> 500;
-            case 'M' -> 1000;
-            default -> 0;
-        };
-    }
-// Daily update for GitHub streak
-    public static void main(String[] args) {
-        String roman = "MCMXCIV";
-        System.out.println("The integer value of " + roman + " is " + romanToInt(roman));
-    }
-
 }
