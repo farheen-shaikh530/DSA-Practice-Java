@@ -7,3 +7,4 @@ on p2.x = (
     from Point
     where x > p1.x
 );
+
