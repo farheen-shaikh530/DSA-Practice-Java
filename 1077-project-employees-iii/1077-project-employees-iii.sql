@@ -8,7 +8,6 @@ on
  e.employee_id = p.employee_id
 
 where e.experience_years = (
-
     select max(e2.experience_years)
     from Project p2
     join Employee e2 on p2.employee_id = e2.employee_id
