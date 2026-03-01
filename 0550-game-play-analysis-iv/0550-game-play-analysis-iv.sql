@@ -1,10 +1,7 @@
 Select 
 
 ROUND( 
-
     COUNT(Distinct a.player_id) / 
-
-
     (Select COUNT(Distinct player_id) from Activity) ,2) as fraction
 
 from activity a
