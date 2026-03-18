@@ -11,4 +11,5 @@
 | [1355-activity-participants](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1355-activity-participants/) | Medium |
 | [1435-create-a-session-bar-chart](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1435-create-a-session-bar-chart/) | Easy |
 | [1445-apples-oranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1445-apples-oranges/) | Medium |
+| [1607-sellers-with-no-sales](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1607-sellers-with-no-sales/) | Easy |
 <!---LeetCode Topics End-->
