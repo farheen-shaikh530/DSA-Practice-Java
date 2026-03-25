@@ -8,6 +8,7 @@ WITH medals AS (
     SELECT contest_id, bronze_medal AS user_id
     FROM Contests
 ),
+
 consecutive_winners AS (
     SELECT DISTINCT m1.user_id
     FROM medals m1
@@ -18,6 +19,7 @@ consecutive_winners AS (
         ON m2.user_id = m3.user_id
        AND m3.contest_id = m2.contest_id + 1
 ),
+
 gold_winners AS (
     SELECT gold_medal AS user_id
     FROM Contests
@@ -26,6 +28,7 @@ gold_winners AS (
 )
 SELECT DISTINCT u.name, u.mail
 FROM Users u
+
 JOIN (
     SELECT user_id FROM consecutive_winners
     UNION
