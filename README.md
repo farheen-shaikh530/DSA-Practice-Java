@@ -17,4 +17,5 @@
 | [1811-find-interview-candidates](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1811-find-interview-candidates/) | Medium |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1821-find-customers-with-positive-revenue-this-year/) | Easy |
 | [1831-maximum-transaction-each-day](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1831-maximum-transaction-each-day/) | Medium |
+| [1843-suspicious-bank-accounts](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1843-suspicious-bank-accounts/) | Medium |
 <!---LeetCode Topics End-->
