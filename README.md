@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0614-second-degree-follower](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0614-second-degree-follower/) | Medium |
+| [1107-new-users-daily-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1107-new-users-daily-count/) | Medium |
 | [1149-article-views-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1149-article-views-ii/) | Medium |
 | [1205-monthly-transactions-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1205-monthly-transactions-ii/) | Medium |
 | [1264-page-recommendations](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1264-page-recommendations/) | Medium |
