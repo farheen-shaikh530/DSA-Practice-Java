@@ -15,6 +15,7 @@
 | [1435-create-a-session-bar-chart](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1435-create-a-session-bar-chart/) | Easy |
 | [1445-apples-oranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1445-apples-oranges/) | Medium |
 | [1607-sellers-with-no-sales](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1607-sellers-with-no-sales/) | Easy |
+| [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1623-all-valid-triplets-that-can-represent-a-country/) | Easy |
 | [1811-find-interview-candidates](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1811-find-interview-candidates/) | Medium |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1821-find-customers-with-positive-revenue-this-year/) | Easy |
 | [1831-maximum-transaction-each-day](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1831-maximum-transaction-each-day/) | Medium |
