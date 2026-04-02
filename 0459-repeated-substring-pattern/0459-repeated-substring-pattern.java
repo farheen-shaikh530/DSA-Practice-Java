@@ -3,7 +3,7 @@ class Solution {
         String doubled = s + s;
         String trimmed = doubled.substring(1, doubled.length() - 1);
 
-return trimmed.contains(s);
+        return trimmed.contains(s);
 
     }
 }
