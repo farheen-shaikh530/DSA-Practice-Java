@@ -48,4 +48,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
