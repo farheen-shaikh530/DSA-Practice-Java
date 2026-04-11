@@ -23,6 +23,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
