@@ -21,6 +21,7 @@
 | [1445-apples-oranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1445-apples-oranges/) | Medium |
 | [1468-calculate-salaries](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1468-calculate-salaries/) | Medium |
 | [1532-the-most-recent-three-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1532-the-most-recent-three-orders/) | Medium |
+| [1555-bank-account-summary](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1555-bank-account-summary/) | Medium |
 | [1607-sellers-with-no-sales](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1607-sellers-with-no-sales/) | Easy |
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1623-all-valid-triplets-that-can-represent-a-country/) | Easy |
 | [1699-number-of-calls-between-two-persons](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1699-number-of-calls-between-two-persons/) | Medium |
