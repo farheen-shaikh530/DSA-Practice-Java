@@ -22,5 +22,3 @@ daily_percent as(
 SELECT 
 ROUND(AVG(percent_removed), 2) AS average_daily_percent
 FROM daily_percent;
-
-
