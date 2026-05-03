@@ -32,6 +32,7 @@
 | [1831-maximum-transaction-each-day](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1831-maximum-transaction-each-day/) | Medium |
 | [1843-suspicious-bank-accounts](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1843-suspicious-bank-accounts/) | Medium |
 | [1949-strong-friendship](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1949-strong-friendship/) | Medium |
+| [1972-first-and-last-call-on-the-same-day](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1972-first-and-last-call-on-the-same-day/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
