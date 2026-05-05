@@ -51,6 +51,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0163-missing-ranges](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0163-missing-ranges/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -111,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0010-regular-expression-matching/) | Hard |
+| [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
