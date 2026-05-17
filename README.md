@@ -37,6 +37,7 @@
 | [2084-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2084-drop-type-1-orders-for-customers-with-type-0-orders/) | Medium |
 | [2112-the-airport-with-the-most-traffic](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2112-the-airport-with-the-most-traffic/) | Medium |
 | [2159-order-two-columns-independently](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2159-order-two-columns-independently/) | Medium |
+| [2228-users-with-two-purchases-within-seven-days](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2228-users-with-two-purchases-within-seven-days/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
