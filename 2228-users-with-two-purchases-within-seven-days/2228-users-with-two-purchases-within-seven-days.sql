@@ -8,6 +8,6 @@ JOIN Purchases p2
 
    AND p1.purchase_id <> p2.purchase_id
 
-   AND ABS(DATEDIFF(p1.purchase_date, p2.purchase_date)) <= 7
+   AND ABS(DATEDIFF(p2.purchase_date, p1.purchase_date)) <= 7
 
 ORDER BY p1.user_id;
