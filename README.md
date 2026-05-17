@@ -35,6 +35,7 @@
 | [1972-first-and-last-call-on-the-same-day](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1972-first-and-last-call-on-the-same-day/) | Hard |
 | [2084-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2084-drop-type-1-orders-for-customers-with-type-0-orders/) | Medium |
 | [2112-the-airport-with-the-most-traffic](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2112-the-airport-with-the-most-traffic/) | Medium |
+| [2159-order-two-columns-independently](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2159-order-two-columns-independently/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
