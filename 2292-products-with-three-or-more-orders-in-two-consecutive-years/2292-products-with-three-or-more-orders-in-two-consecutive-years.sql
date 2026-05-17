@@ -12,5 +12,5 @@ from yearly_orders y1
 join yearly_orders y2
 
 on y1. product_id = y2.product_id
-and 
+and
 y2.purchase_year = y1.purchase_year + 1;
