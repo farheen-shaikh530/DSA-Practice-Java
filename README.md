@@ -20,6 +20,7 @@
 | [1435-create-a-session-bar-chart](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1435-create-a-session-bar-chart/) | Easy |
 | [1440-evaluate-boolean-expression](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1440-evaluate-boolean-expression/) | Medium |
 | [1445-apples-oranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1445-apples-oranges/) | Medium |
+| [1454-active-users](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1454-active-users/) | Medium |
 | [1468-calculate-salaries](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1468-calculate-salaries/) | Medium |
 | [1495-friendly-movies-streamed-last-month](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
 | [1532-the-most-recent-three-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1532-the-most-recent-three-orders/) | Medium |
