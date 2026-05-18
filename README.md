@@ -24,6 +24,7 @@
 | [1468-calculate-salaries](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1468-calculate-salaries/) | Medium |
 | [1495-friendly-movies-streamed-last-month](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
 | [1532-the-most-recent-three-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1532-the-most-recent-three-orders/) | Medium |
+| [1549-the-most-recent-orders-for-each-product](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1549-the-most-recent-orders-for-each-product/) | Medium |
 | [1555-bank-account-summary](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1555-bank-account-summary/) | Medium |
 | [1607-sellers-with-no-sales](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1607-sellers-with-no-sales/) | Easy |
 | [1613-find-the-missing-ids](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1613-find-the-missing-ids/) | Medium |
