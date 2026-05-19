@@ -44,6 +44,7 @@
 | [2228-users-with-two-purchases-within-seven-days](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2228-users-with-two-purchases-within-seven-days/) | Medium |
 | [2238-number-of-times-a-driver-was-a-passenger](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2238-number-of-times-a-driver-was-a-passenger/) | Medium |
 | [2292-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2292-products-with-three-or-more-orders-in-two-consecutive-years/) | Medium |
+| [2324-product-sales-analysis-iv](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2324-product-sales-analysis-iv/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
