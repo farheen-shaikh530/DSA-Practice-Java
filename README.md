@@ -27,6 +27,7 @@
 | [1532-the-most-recent-three-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1532-the-most-recent-three-orders/) | Medium |
 | [1549-the-most-recent-orders-for-each-product](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1549-the-most-recent-orders-for-each-product/) | Medium |
 | [1555-bank-account-summary](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1555-bank-account-summary/) | Medium |
+| [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1596-the-most-frequently-ordered-products-for-each-customer/) | Medium |
 | [1607-sellers-with-no-sales](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1607-sellers-with-no-sales/) | Easy |
 | [1613-find-the-missing-ids](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1613-find-the-missing-ids/) | Medium |
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1623-all-valid-triplets-that-can-represent-a-country/) | Easy |
