@@ -4,6 +4,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0614-second-degree-follower](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0614-second-degree-follower/) | Medium |
 | [1107-new-users-daily-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1107-new-users-daily-count/) | Medium |
 | [1132-reported-posts-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1132-reported-posts-ii/) | Medium |
