@@ -1,13 +1,19 @@
-Select distinct 
+SELECT DISTINCT num AS ConsecutiveNums
 
-l1.num as ConsecutiveNums
-from Logs l1
+FROM (
 
-join Logs l2 
-on l1.id = l2.id - 1
+    SELECT
 
-join Logs l3 
-on l1.id = l3.id - 2
+        num,
 
-where l1.num = l2.num
-and l2.num = l3.num
+        LAG(num,1) OVER (ORDER BY id) AS prev1,
+
+        LAG(num,2) OVER (ORDER BY id) AS prev2
+
+    FROM Logs
+
+) t
+
+WHERE num = prev1
+
+AND num = prev2;
