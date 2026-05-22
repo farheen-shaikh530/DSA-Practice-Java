@@ -50,6 +50,7 @@
 | [2238-number-of-times-a-driver-was-a-passenger](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2238-number-of-times-a-driver-was-a-passenger/) | Medium |
 | [2292-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2292-products-with-three-or-more-orders-in-two-consecutive-years/) | Medium |
 | [2324-product-sales-analysis-iv](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2324-product-sales-analysis-iv/) | Medium |
+| [3230-customer-purchasing-behavior-analysis](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3230-customer-purchasing-behavior-analysis/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
