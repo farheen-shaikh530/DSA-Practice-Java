@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0163-missing-ranges](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0163-missing-ranges/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -131,11 +132,13 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0010-regular-expression-matching/) | Hard |
+| [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
@@ -167,10 +170,15 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
