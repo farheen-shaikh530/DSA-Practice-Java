@@ -56,6 +56,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
