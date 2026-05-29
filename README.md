@@ -55,6 +55,7 @@
 | [3124-find-longest-calls](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3124-find-longest-calls/) | Medium |
 | [3230-customer-purchasing-behavior-analysis](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3230-customer-purchasing-behavior-analysis/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3521-find-product-recommendation-pairs/) | Medium |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
