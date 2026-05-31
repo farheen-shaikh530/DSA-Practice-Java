@@ -9,6 +9,7 @@
 | [0178-rank-scores](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
+| [0569-median-employee-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0569-median-employee-salary/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0614-second-degree-follower](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0614-second-degree-follower/) | Medium |
 | [1107-new-users-daily-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1107-new-users-daily-count/) | Medium |
