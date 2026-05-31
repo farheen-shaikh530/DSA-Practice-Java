@@ -5,8 +5,6 @@ Select
 player_id,
 match_day,
 result,
-
-
 SUM(
     CASE when result != 'Win'
     then 1
