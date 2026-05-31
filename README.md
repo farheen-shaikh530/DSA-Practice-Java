@@ -12,6 +12,7 @@
 | [0569-median-employee-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0569-median-employee-salary/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0614-second-degree-follower](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0614-second-degree-follower/) | Medium |
+| [0618-students-report-by-geography](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0618-students-report-by-geography/) | Hard |
 | [1107-new-users-daily-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1107-new-users-daily-count/) | Medium |
 | [1132-reported-posts-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1132-reported-posts-ii/) | Medium |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1142-user-activity-for-the-past-30-days-ii/) | Easy |
