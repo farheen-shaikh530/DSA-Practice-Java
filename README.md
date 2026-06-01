@@ -23,6 +23,7 @@
 | [1264-page-recommendations](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1264-page-recommendations/) | Medium |
 | [1270-all-people-report-to-the-given-manager](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1270-all-people-report-to-the-given-manager/) | Medium |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1285-find-the-start-and-end-number-of-continuous-ranges/) | Medium |
+| [1303-find-the-team-size](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1303-find-the-team-size/) | Easy |
 | [1321-restaurant-growth](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1350-students-with-invalid-departments](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1350-students-with-invalid-departments/) | Easy |
 | [1355-activity-participants](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1355-activity-participants/) | Medium |
