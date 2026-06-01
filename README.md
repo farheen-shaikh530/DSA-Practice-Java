@@ -27,6 +27,7 @@
 | [1321-restaurant-growth](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1350-students-with-invalid-departments](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1350-students-with-invalid-departments/) | Easy |
 | [1355-activity-participants](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1355-activity-participants/) | Medium |
+| [1421-npv-queries](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1421-npv-queries/) | Easy |
 | [1435-create-a-session-bar-chart](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1435-create-a-session-bar-chart/) | Easy |
 | [1440-evaluate-boolean-expression](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1440-evaluate-boolean-expression/) | Medium |
 | [1445-apples-oranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1445-apples-oranges/) | Medium |
