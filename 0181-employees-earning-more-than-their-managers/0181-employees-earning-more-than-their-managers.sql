@@ -1,13 +1,13 @@
 Select
-e1.name as 'Employee'
+e.name as 'Employee'
 
-from Employee e1
+from Employee e
 
-join Employee e2 
-on e1.managerId = e2.id
+join Employee m 
+on e.managerId = m.id
 
 where
- e1.salary > e2.salary
+ e.salary > m.salary
 
 
 
