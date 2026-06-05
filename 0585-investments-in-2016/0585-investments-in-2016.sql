@@ -1,16 +1,17 @@
 
-SELECT
-  ROUND(SUM(i.tiv_2016), 2) AS tiv_2016
-FROM Insurance i
-WHERE i.tiv_2015 IN (
-    SELECT tiv_2015
-    FROM Insurance
-    GROUP BY tiv_2015
-    HAVING COUNT(*) > 1
+Select
+
+ROUND(SUM(i.tiv_2016), 2) as tiv_2016
+
+from Insurance i
+
+where
+
+i.tiv_2015 in(
+    select tiv_2015 from Insurance group by tiv_2015 having count(*) > 1
+
 )
-AND (i.lat, i.lon) IN (
-    SELECT lat, lon
-    FROM Insurance
-    GROUP BY lat, lon
-    HAVING COUNT(*) = 1
-);
+and (i.lat,i.lon) IN(
+
+    select lat, lon from Insurance group by lat, lon having count(*) = 1
+)
