@@ -11,6 +11,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
+| [0534-game-play-analysis-iii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0534-game-play-analysis-iii/) | Medium |
 | [0569-median-employee-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0569-median-employee-salary/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0614-second-degree-follower](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0614-second-degree-follower/) | Medium |
