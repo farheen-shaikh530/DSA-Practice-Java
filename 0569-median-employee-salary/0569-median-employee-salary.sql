@@ -1,4 +1,4 @@
-WITH rank_number as(
+WITH rank_number  as(
 Select
 id,
 company,
