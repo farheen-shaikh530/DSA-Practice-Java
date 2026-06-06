@@ -1,34 +1,35 @@
-WITH rank_number  as(
-Select
-id,
-company,
-salary,
- ROW_NUMBER() OVER(
+WITH rank_number as (
 
-  partition by company
-  order by salary, id
+    select
+    id,
+    company,
+    salary,
+    ROW_NUMBER()  OVER(
 
-) as rn,
-count(*) over(
-    partition by company
+        partition by
+        company
 
-) as total_count
+        order by salary, id
+
+    ) as rn,
+
+    count(*) over(
+        partition by company
+    ) as total_count
 
 
-from Employee
+
+
+    from Employee
 
 )
 select
-id,
+id, 
 company,
-salary
-
+salary 
 from rank_number
-where rn in (
+where rn in(
 
-    FLOOR((total_count + 1)/2),
-    FLOOR((total_count + 2)/2)
-
+    FLOOR((total_count + 1 )/2),
+       FLOOR((total_count + 2 )/2)
 );
-
-
