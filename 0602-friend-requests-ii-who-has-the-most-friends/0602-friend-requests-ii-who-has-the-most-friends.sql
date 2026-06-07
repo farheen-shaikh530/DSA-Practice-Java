@@ -1,11 +1,17 @@
-SELECT id, COUNT(*) AS num
-FROM (
-    SELECT requester_id AS id
-    FROM RequestAccepted
+SELECT
+id,
+ COUNT(*) as num
+ from (
+    SELECT requester_id as id
+    from RequestAccepted
+
     UNION ALL
-    SELECT accepter_id AS id
-    FROM RequestAccepted
-) t
-GROUP BY id
-ORDER BY num DESC
-LIMIT 1;
+
+    SELECT accepter_id as id
+    from RequestAccepted
+
+ ) t
+ GROUP by id
+ ORDER by num desc
+ LIMIT 1;
+
