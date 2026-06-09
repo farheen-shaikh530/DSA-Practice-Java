@@ -66,6 +66,7 @@
 | [2324-product-sales-analysis-iv](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2324-product-sales-analysis-iv/) | Medium |
 | [2339-all-the-matches-of-the-league](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2339-all-the-matches-of-the-league/) | Easy |
 | [2854-rolling-average-steps](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2854-rolling-average-steps/) | Medium |
+| [2985-calculate-compressed-mean](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2985-calculate-compressed-mean/) | Easy |
 | [3124-find-longest-calls](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3124-find-longest-calls/) | Medium |
 | [3230-customer-purchasing-behavior-analysis](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3230-customer-purchasing-behavior-analysis/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3521-find-product-recommendation-pairs/) | Medium |
