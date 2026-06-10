@@ -1,24 +1,18 @@
-# Write your MySQL query statement below
-with ranks as (
+Select
+MAX(CASE WHEN continent = 'America' THEN name END ) as America,
+MAX(CASE WHEN continent = 'Asia' THEN name END) as Asia,
+MAX(CASE WHEN continent = 'Europe' THEN name END) as Europe
 
-select
-name,
-continent,
+from (
 
-ROW_NUMBER() OVER (
-    partition by continent
-    order by name
-) as rn
-from student
+    Select 
+    name, 
+    continent,
+    ROW_NUMBER() OVER (PARTITION BY continent ORDER BY name) as rn
+from Student
+    
+) t
 
-) 
-select 
-MAX(CASE WHEN continent = 'America' then name end ) AS America,
-MAX(CASE WHEN continent = 'Asia' then name end ) AS Asia,
-MAX(CASE WHEN continent = 'Europe' then name end) AS Europe
-
-from ranks
-
-group by rn
-order by rn
+Group by rn
+ORDER BY rn
 
