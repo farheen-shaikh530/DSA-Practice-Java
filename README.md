@@ -21,6 +21,7 @@
 | [0618-students-report-by-geography](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0618-students-report-by-geography/) | Hard |
 | [0626-exchange-seats](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1070-product-sales-analysis-iii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1107-new-users-daily-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1107-new-users-daily-count/) | Medium |
 | [1132-reported-posts-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1132-reported-posts-ii/) | Medium |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1142-user-activity-for-the-past-30-days-ii/) | Easy |
