@@ -1,14 +1,23 @@
-with cte as(
+WITH cte as (
 
-    select log_id,
-    log_id - ROW_NUMBER() OVER (order by log_id) as grp
+    Select
+    log_id,
+    log_id - ROW_NUMBER() OVER  (
+        ORDER BY log_id
 
-    from Logs
+    ) as grp
+
+    FROM Logs
+
+
 )
 
-select min(log_id) as start_id,
-max(log_id) as end_id 
 
-from cte 
-group by grp
-ORDER BY start_id
+Select
+MIN(log_id) as start_id,
+MAX(log_id) as end_id
+
+FROM cte
+
+Group by grp
+Order by start_id;
