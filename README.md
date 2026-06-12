@@ -26,6 +26,7 @@
 | [1132-reported-posts-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1132-reported-posts-ii/) | Medium |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1142-user-activity-for-the-past-30-days-ii/) | Easy |
 | [1149-article-views-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1149-article-views-ii/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1205-monthly-transactions-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1205-monthly-transactions-ii/) | Medium |
 | [1212-team-scores-in-football-tournament](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1212-team-scores-in-football-tournament/) | Medium |
 | [1241-number-of-comments-per-post](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1241-number-of-comments-per-post/) | Easy |
