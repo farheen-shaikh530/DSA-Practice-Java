@@ -1,11 +1,20 @@
-Select person_name
+Select
+person_name
+from
+(
 
-from 
-(Select person_name, SUM(weight) over (order by turn) as TotalWeight from Queue
+    Select 
+    person_name,
+    SUM(weight) OVER (
+        ORDER BY turn 
 
-)t
- where TotalWeight <= 1000
- order by TotalWeight desc
- limit 1;
+    ) as total_weight
 
+    from Queue
 
+) q
+
+where total_weight <= 1000
+order by total_weight
+DESC
+limit 1;
