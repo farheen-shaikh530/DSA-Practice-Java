@@ -1,6 +1,7 @@
 SELECT
 
 CASE 
+
 WHEN id % 2 = 1
 AND id != (Select  MAX(id) From Seat)
 THEN id + 1
