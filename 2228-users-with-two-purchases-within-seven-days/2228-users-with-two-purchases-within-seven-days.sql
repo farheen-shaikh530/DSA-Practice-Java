@@ -13,9 +13,6 @@ FROM(
     ) as prev_purchase
     from Purchases
 
-
-
-
 ) p
 
 WHERE DATEDIFF (purchase_date, prev_purchase ) <= 7;
