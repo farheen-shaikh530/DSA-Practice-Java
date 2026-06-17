@@ -1,13 +1,21 @@
-SELECT DISTINCT p1.user_id
+SELECT DISTINCT
+user_id
+FROM(
 
-FROM Purchases p1
+    SELECT 
+    user_id,
+    purchase_date,
+    LAG(purchase_date) OVER (
 
-JOIN Purchases p2
+        PARTITION BY user_id
+        ORDER by purchase_date
 
-    ON p1.user_id = p2.user_id
+    ) as prev_purchase
+    from Purchases
 
-   AND p1.purchase_id <> p2.purchase_id
 
-   AND ABS(DATEDIFF(p2.purchase_date, p1.purchase_date)) <= 7
 
-ORDER BY p1.user_id;
+
+) p
+
+WHERE DATEDIFF (purchase_date, prev_purchase ) <= 7;
