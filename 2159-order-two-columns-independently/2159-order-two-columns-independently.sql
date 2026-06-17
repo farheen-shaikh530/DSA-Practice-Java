@@ -11,8 +11,6 @@ second_sorted as (
     second_col,
         ROW_NUMBER() OVER (ORDER BY second_col desc) as rn 
         from Data
-
-
 )
 
 SELECT 
