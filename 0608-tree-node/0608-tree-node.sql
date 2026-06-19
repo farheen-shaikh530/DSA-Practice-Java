@@ -1,12 +1,13 @@
-select id,
+
+Select
+id,
 CASE 
-WHEN p_id is null then 'Root'
-WHEN id IN (SELECT DISTINCT p_id FROM Tree WHERE p_id IS NOT NULL)
 
-then 'Inner'
-ELSE 'Leaf' 
-End as type
+WHEN p_id is null then 'Root' 
+WHEN id IN(
+    Select Distinct p_id from Tree Where p_id is not null
 
-from Tree;
-
-
+) then 'Inner'
+else 'Leaf'
+END as type 
+From Tree;
