@@ -1,17 +1,17 @@
 SELECT
 id,
- COUNT(*) as num
- from (
-    SELECT requester_id as id
-    from RequestAccepted
+COUNT(*) as num
+FROM(
+
+    SELECT requester_id AS id FROM RequestAccepted
 
     UNION ALL
 
-    SELECT accepter_id as id
-    from RequestAccepted
+    SELECT accepter_id AS id FROM RequestAccepted
 
- ) t
- GROUP by id
- ORDER by num desc
- LIMIT 1;
 
+) friends
+
+GROUP BY id
+ORDER BY num DESC
+LIMIT 1;
