@@ -9,7 +9,6 @@ FROM(
 
     SELECT accepter_id AS id FROM RequestAccepted
 
-
 ) friends
 
 GROUP BY id
