@@ -16,6 +16,7 @@
 | [0569-median-employee-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0569-median-employee-salary/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0585-investments-in-2016](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0608-tree-node/) | Medium |
