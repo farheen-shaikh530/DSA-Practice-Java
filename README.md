@@ -27,6 +27,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1107-new-users-daily-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1107-new-users-daily-count/) | Medium |
 | [1132-reported-posts-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1132-reported-posts-ii/) | Medium |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1142-user-activity-for-the-past-30-days-ii/) | Easy |
 | [1149-article-views-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1149-article-views-ii/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
