@@ -1,5 +1,7 @@
 SELECT
+
 activity_date as day,
+
 COUNT(DISTINCT user_id) AS active_users
 
 FROM Activity
