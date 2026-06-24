@@ -1,12 +1,11 @@
-Select distinct
+SELECT DISTINCT
 num as ConsecutiveNums
-from (
-    Select 
+FROM (
+    SELECT 
     num,
-    LAG(num, 1) OVER (Order by id)  as prev1,
-    LAG(num, 2) OVER (Order by id) as prev2
-    from 
-    Logs
-) as t
-
-where num = prev1 and num = prev2
+    LAG(num)  OVER (ORDER BY id) as prev,
+    LEAD(num)  OVER (ORDER BY id) as next
+    FROM Logs
+) t
+WHERE num = prev
+AND num = next;
