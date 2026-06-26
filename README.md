@@ -55,6 +55,7 @@
 | [1445-apples-oranges](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1445-apples-oranges/) | Medium |
 | [1454-active-users](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1454-active-users/) | Medium |
 | [1468-calculate-salaries](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1468-calculate-salaries/) | Medium |
+| [1484-group-sold-products-by-the-date](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1495-friendly-movies-streamed-last-month](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
 | [1532-the-most-recent-three-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1532-the-most-recent-three-orders/) | Medium |
 | [1549-the-most-recent-orders-for-each-product](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1549-the-most-recent-orders-for-each-product/) | Medium |
