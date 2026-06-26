@@ -62,6 +62,7 @@
 | [1607-sellers-with-no-sales](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1607-sellers-with-no-sales/) | Easy |
 | [1613-find-the-missing-ids](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1613-find-the-missing-ids/) | Medium |
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1623-all-valid-triplets-that-can-represent-a-country/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1699-number-of-calls-between-two-persons](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1699-number-of-calls-between-two-persons/) | Medium |
 | [1811-find-interview-candidates](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1811-find-interview-candidates/) | Medium |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1821-find-customers-with-positive-revenue-this-year/) | Easy |
