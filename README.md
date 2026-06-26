@@ -64,6 +64,7 @@
 | [1613-find-the-missing-ids](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1613-find-the-missing-ids/) | Medium |
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1623-all-valid-triplets-that-can-represent-a-country/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1699-number-of-calls-between-two-persons](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1699-number-of-calls-between-two-persons/) | Medium |
 | [1729-find-followers-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
