@@ -25,6 +25,7 @@
 | [0608-tree-node](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0608-tree-node/) | Medium |
 | [0614-second-degree-follower](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0614-second-degree-follower/) | Medium |
 | [0618-students-report-by-geography](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0618-students-report-by-geography/) | Hard |
+| [0619-biggest-single-number](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
