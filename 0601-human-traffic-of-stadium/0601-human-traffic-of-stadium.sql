@@ -1,37 +1,29 @@
-# Write your MySQL query statement below
-with filtered as(
-
-    select id, 
-    visit_date, 
+WITH high_traffic AS (
+    SELECT
+    id,
+    visit_date,
     people,
 
-    id - ROW_NUMBER() OVER (Order by id) as group_id
+    id - ROW_NUMBER() OVER (ORDER BY id) AS grp
 
-    from Stadium
-
-    where people >= 100
-
-),
-
-valid_group as (
-    select group_id
-    from filtered
-    group by group_id
-
-    having count(*) >= 3
+    FROM Stadium
+    WHERE people >= 100
 
 )
 
-select id, 
+SELECT 
+id,
 visit_date,
-people
-from filtered
-where group_id in(
-    select group_id 
-    from valid_group
+people FROM high_traffic
+WHERE grp IN(
+
+SELECT grp
+FROM high_traffic
+GROUP BY grp
+HAVING COUNT(*) >= 3
 
 
 )
 
-order by visit_date;
 
+ORDER BY visit_date
