@@ -34,6 +34,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1142-user-activity-for-the-past-30-days-ii/) | Easy |
 | [1149-article-views-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1149-article-views-ii/) | Medium |
+| [1164-product-price-at-a-given-date](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
