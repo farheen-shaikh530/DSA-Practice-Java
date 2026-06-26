@@ -58,6 +58,7 @@
 | [1468-calculate-salaries](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1468-calculate-salaries/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1495-friendly-movies-streamed-last-month](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1532-the-most-recent-three-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1532-the-most-recent-three-orders/) | Medium |
 | [1549-the-most-recent-orders-for-each-product](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1549-the-most-recent-orders-for-each-product/) | Medium |
 | [1555-bank-account-summary](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1555-bank-account-summary/) | Medium |
