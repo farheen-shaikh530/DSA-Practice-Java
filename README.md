@@ -16,6 +16,7 @@
 | [0534-game-play-analysis-iii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0534-game-play-analysis-iii/) | Medium |
 | [0569-median-employee-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0569-median-employee-salary/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
