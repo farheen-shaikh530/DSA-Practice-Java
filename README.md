@@ -51,6 +51,7 @@
 | [1303-find-the-team-size](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1303-find-the-team-size/) | Easy |
 | [1321-restaurant-growth](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
 | [1350-students-with-invalid-departments](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1350-students-with-invalid-departments/) | Easy |
 | [1355-activity-participants](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1355-activity-participants/) | Medium |
 | [1393-capital-gainloss](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1393-capital-gainloss/) | Medium |
