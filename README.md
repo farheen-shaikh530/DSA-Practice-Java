@@ -83,6 +83,7 @@
 | [1907-count-salary-categories](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1949-strong-friendship](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1949-strong-friendship/) | Medium |
 | [1972-first-and-last-call-on-the-same-day](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1972-first-and-last-call-on-the-same-day/) | Hard |
+| [1978-employees-whose-manager-left-the-company](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2084-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2084-drop-type-1-orders-for-customers-with-type-0-orders/) | Medium |
 | [2112-the-airport-with-the-most-traffic](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2112-the-airport-with-the-most-traffic/) | Medium |
 | [2159-order-two-columns-independently](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2159-order-two-columns-independently/) | Medium |
