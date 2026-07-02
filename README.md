@@ -94,6 +94,7 @@
 | [2292-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2292-products-with-three-or-more-orders-in-two-consecutive-years/) | Medium |
 | [2324-product-sales-analysis-iv](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2324-product-sales-analysis-iv/) | Medium |
 | [2339-all-the-matches-of-the-league](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2339-all-the-matches-of-the-league/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [2854-rolling-average-steps](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2854-rolling-average-steps/) | Medium |
 | [2985-calculate-compressed-mean](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2985-calculate-compressed-mean/) | Easy |
 | [3124-find-longest-calls](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3124-find-longest-calls/) | Medium |
