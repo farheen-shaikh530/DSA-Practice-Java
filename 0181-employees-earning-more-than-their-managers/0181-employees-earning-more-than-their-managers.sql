@@ -1,13 +1,12 @@
-Select
-e.name as 'Employee'
 
-from Employee e
+SELECT
+e.name AS 'Employee'
 
-join Employee m 
-on e.managerId = m.id
+FROM Employee e
+JOIN Employee m
+ON m.id = e.managerId
 
-where
- e.salary > m.salary
+WHERE e.salary > m.salary
 
 
 
