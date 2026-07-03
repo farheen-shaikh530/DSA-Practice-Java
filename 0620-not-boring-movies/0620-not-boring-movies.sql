@@ -1,9 +1,10 @@
+SELECT
+id,
+movie,
+description,
+rating
+FROM Cinema
+WHERE id % 2 = 1
+AND description <> 'boring'
 
-select id, movie, description, rating
-
-from Cinema
-
-where description <> 'boring'
- and MOD(id,2)<>0
-
-ORDER BY rating DESC, id ASC;
+ORDER BY rating DESC
