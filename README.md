@@ -4,6 +4,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0178-rank-scores/) | Medium |
