@@ -1,9 +1,8 @@
-Select 
+SELECT
+
 score,
+DENSE_RANK() OVER (ORDER BY Score DESC) AS 'rank'
 
-DENSE_RANK() OVER (
+FROM Scores
 
-    ORDER BY score DESC
-) as 'rank'
-
-FROM Scores;
+ORDER BY Score DESC
