@@ -1,17 +1,23 @@
-select
-product_id,
-year as first_year,
-quantity,
-price
+SELECT 
+s.product_id,
+s.year AS first_year,
+s.quantity,
+s.price
 
-from Sales
+FROM Sales s
 
-where (product_id, year) IN  (
+JOIN (
 
-    Select 
+    SELECT 
     product_id,
-    MIN(year)
+    MIN(year) AS first_year
     FROM Sales
+    GROUP BY product_id
 
-    group by product_id
-)
+) f
+
+ON s.product_id = f.product_id
+AND s.year = f.first_year
+
+
+
