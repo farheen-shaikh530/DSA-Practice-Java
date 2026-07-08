@@ -1,19 +1,19 @@
-# Write your MySQL query statement below
-select 
-p.project_id,
-e.employee_id
-from Employee e
-join Project p 
-on
- e.employee_id = p.employee_id
+SELECT
+project_id,
+employee_id
+FROM 
+(
+    SELECT 
+    p.project_id,
+    p.employee_id,
+    RANK() OVER (PARTITION BY p.project_id
+    ORDER BY e.experience_years DESC
 
-where e.experience_years = (
-    select max(e2.experience_years)
-    from Project p2
-    join Employee e2 on p2.employee_id = e2.employee_id
-    where p2.project_id = p.project_id
+) AS rnk
 
-)
+    FROM Project p
+    JOIN Employee e
+    ON p.employee_id = e.employee_id
 
-
-
+) t
+WHERE rnk = 1;
