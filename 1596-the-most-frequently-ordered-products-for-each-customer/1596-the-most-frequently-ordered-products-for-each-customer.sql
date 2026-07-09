@@ -1,43 +1,26 @@
-WITH ProductFreq as
-(
-select
-o.product_id,
-o.customer_id,
-p.product_name,
-COUNT(*) as freq
-
-from Orders o
-left join Products p
-     on p.product_id = o.product_id
-
-group by 
-p.product_name,
-o.customer_id,
-o.product_id
-),
-
-RankedProducts as (
-
-    select 
-    customer_id,
-    product_id,
-    product_name,
-    freq,
-
-    RANK() OVER(
- Partition by customer_id
-    order by freq desc
-    ) as rn
-from ProductFreq)
-
-select 
+SELECT
 customer_id,
 product_id,
 product_name
 
-From RankedProducts
+FROM (
+    SELECT
+    o.customer_id,
+    o.product_id,
+    p.product_name,
 
-where rn = 1;
+    DENSE_RANK() OVER (PARTITION BY o.customer_id ORDER BY COUNT(*) DESC) AS rnk
 
+    FROM Orders o
 
+    JOIN Products p ON
+    o.product_id =  p.product_id
 
+     GROUP BY 
+o.customer_id,
+o.product_id,
+p.product_name
+
+) t
+
+WHERE rnk = 1
