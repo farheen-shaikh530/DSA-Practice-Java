@@ -14,7 +14,7 @@ FROM (
     FROM Orders o
 
     JOIN Products p ON
-    o.product_id =  p.product_id
+     p.product_id = o.product_id
 
      GROUP BY 
 o.customer_id,
